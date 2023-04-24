@@ -119,6 +119,3 @@
 .btn__icon:hover {
   transform: rotateZ(0);
 }
-li > * {
-  vertical-align: middle;
-}
